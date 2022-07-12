@@ -232,4 +232,16 @@ header nav .right a:hover {
   .links .container .cards {
     grid-template-columns: 1fr;
   }
+}
+
+footer {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 80rem;
+  text-align: center;
+  margin: 3rem 0;
+}
+footer a {
+  font-size: 1.2rem;
+  color: var(--white);
 }/*# sourceMappingURL=style.css.map */
