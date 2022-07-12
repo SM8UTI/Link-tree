@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Plus+Jakarta+Sans:wght@600;800&display=swap');
+
+// color
+:root{
+    --primarycolor:hsl(0, 0%, 13%);
+    --secondarycolor:hsl(172, 76%, 54%);
+    --graycolor:hsl(169, 12%, 28%);
+    --hovercolor:hsl(182, 81%, 34%);
+    --hovercolor2:hsl(0, 0%, 20%);
+    --white:hsl(0, 0%, 100%);
+    --paragraphcolor:hsl(0, 0%, 69%);
+    
+    // fonts 
+    
+    --bebas: 'Bebas Neue',cursive;
+    --plus: 'Plus Jakarta Sans',sans-serif;
+}
